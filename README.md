@@ -14,7 +14,7 @@ To play all of the samples for a single instrument
 To play all of the samples for a pack of a single instrument
 `./playInstrument.sh /usr/local/share/samples/[INSTRUMENT]/[pack]_*`
 
-## Dependancies ##
+## Dependencies ##
 * Bash
 * Songlib
 * SoX = The Swiss Army knife of sound processing programs
