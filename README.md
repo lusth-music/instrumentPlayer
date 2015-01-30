@@ -6,13 +6,13 @@ Script to play songlib instument samples continuously
 
 ## Run Instructions ##
 To play all of the instrument samples in songlib
-`./playInstrument.sh /usr/local/share/samples/`
+<br />`./playInstrument.sh /usr/local/share/samples/`
 
 To play all of the samples for a single instrument
-`./playInstrument.sh /usr/local/share/samples/[INSTRUMENT]`
+<br />`./playInstrument.sh /usr/local/share/samples/[INSTRUMENT]`
 
 To play all of the samples for a pack of a single instrument
-`./playInstrument.sh /usr/local/share/samples/[INSTRUMENT]/[pack]_*`
+<br />`./playInstrument.sh /usr/local/share/samples/[INSTRUMENT]/[pack]_*`
 
 ## Dependencies ##
 * [Bash](http://www.gnu.org/software/bash/)
