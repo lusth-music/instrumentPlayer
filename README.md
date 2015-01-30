@@ -15,6 +15,6 @@ To play all of the samples for a pack of a single instrument
 `./playInstrument.sh /usr/local/share/samples/[INSTRUMENT]/[pack]_*`
 
 ## Dependencies ##
-* Bash
-* Songlib
-* SoX = The Swiss Army knife of sound processing programs
+* [Bash](http://www.gnu.org/software/bash/)
+* [Songlib](http://songlib.cs.ua.edu/) - The C Library for Music Composition
+* [SoX](http://sox.sourceforge.net/) - The Swiss Army knife of sound processing programs
