@@ -1,5 +1,6 @@
 #!/bin/bash
 #
+# Author: Joshua Wolfe (jbwolfe)
 # Listen to individual .rra files
 # Requires rplay and sox to be installed
 
